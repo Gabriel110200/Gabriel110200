@@ -7,7 +7,7 @@
 - 🤔 I’m looking for tips on how to improve.
 - 💬 Ask me about anything
 - ⚡ Fun fact: Software development is my dream job. 
--->
+
 
 
 Here are some technologies i know:  
