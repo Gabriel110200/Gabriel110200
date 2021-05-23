@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi, I'm Gabriel!  👋 
 
-<!--
-**Gabriel110200/Gabriel110200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##I'm in love for web development. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently looking for a job as an intern.
+- 🌱 I’m currently learning Php and MySql.
+- 🤔 I’m looking for tips on how to improve.
+- 💬 Ask me about anything
+- 📫 How to reach me: [Linkedin](www.linkedin.com/in/gabriel-bezerra-de-souza-286b38207)
+- ⚡ Fun fact: Software development is my dream job. 
 -->
+
+
+Here are some technologies i know:  
+
+* HTML 
+* CSS  
+* Bootstrap 
+* JAVASCRIPT 
+* C / C++ 
+* PHP  
+* Java
