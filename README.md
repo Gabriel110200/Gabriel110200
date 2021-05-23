@@ -1,6 +1,6 @@
 # Hi, I'm Gabriel!  👋 
 
-##I'm in love for web development. 
+## I'm in love for web development. 
 
 - 🔭 I’m currently looking for a job as an intern.
 - 🌱 I’m currently learning Php and MySql.
