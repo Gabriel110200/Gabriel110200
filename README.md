@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Php and MySql.
 - 🤔 I’m looking for tips on how to improve.
 - 💬 Ask me about anything
-- 📫 How to reach me: [Linkedin](www.linkedin.com/in/gabriel-bezerra-de-souza-286b38207)
 - ⚡ Fun fact: Software development is my dream job. 
 -->
 
