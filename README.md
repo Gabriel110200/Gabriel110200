@@ -18,4 +18,5 @@ Here are some technologies i know:
 * JAVASCRIPT 
 * C / C++ 
 * PHP  
-* Java
+* Java 
+* Python
