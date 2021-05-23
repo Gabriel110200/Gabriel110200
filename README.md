@@ -15,7 +15,7 @@ Here are some technologies i know:
 * HTML 
 * CSS  
 * Bootstrap 
-* JAVASCRIPT 
+* Javascript
 * C / C++ 
 * PHP  
 * Java 
