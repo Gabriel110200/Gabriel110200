@@ -8,15 +8,3 @@
 - 💬 Ask me about anything
 - ⚡ Fun fact: Software development is my dream job. 
 
-
-
-Here are some technologies i know:  
-
-* HTML 
-* CSS  
-* Bootstrap 
-* Javascript
-* C / C++ 
-* PHP  
-* Java 
-* Python
