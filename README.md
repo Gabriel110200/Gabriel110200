@@ -2,7 +2,7 @@
 
 ## I'm in love for back-end development. 
 
-- 🔭 I’m workin as a php develope intern at Russel Serviços.
+- 🔭 I’m workin as a php developer intern at Russel Serviços.
 - 🌱 I’m currently learning Back end Development with PHP
 
 
