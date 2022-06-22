@@ -2,8 +2,8 @@
 
 ## I'm in love for back-end development. 
 
-- 🔭 I’m workin as a php developer intern at Russel Serviços.
-- 🌱 I’m currently learning Back end Development with PHP
+- 🔭 I’m workin as a .net Developer intern at asc solutions
+- 🌱 I’m currently learning sqrs architeture and solid design principle.
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel110200&theme=radical) 
