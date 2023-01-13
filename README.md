@@ -4,5 +4,5 @@
 
  :sunglasses:	I'm  a passionate software developer who cares about creating maintainable,testable and decoupled code in a agile enviroment.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel110200&theme=radical) 
+
 
